@@ -1,5 +1,5 @@
 # Slaps
-Mobile game that replicates the classic game that everyone's played.
+Mobile game that replicates the classic game everyone's played.
 
 
 
