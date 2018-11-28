@@ -1,5 +1,5 @@
 # Slaps
-Mobile game that replicates the fun game we all play at family parties.
+Mobile game that replicates the classic game that everyone's played.
 
 
 
